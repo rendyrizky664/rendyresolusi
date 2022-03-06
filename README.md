@@ -1,2 +1,2 @@
 # rendyresolusi
-Reposotori untuk menyimpab rencana rendy kedepannya
+Reposotori untuk menyimpan rencana rendy kedepannya
